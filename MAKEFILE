@@ -7,6 +7,11 @@ test:
 	# g++ -O3 -o optimized1 question1.o
 
 #question 2
-	g++ -c question2.cpp
-	g++ -g -o debug1 question2.o
-	g++ -O3 -o optimized1 question2.o
+	# g++ -c question2.cpp
+	# g++ -g -o debug1 question2.o
+	# g++ -O3 -o optimized1 question2.o
+
+#question 3
+	g++ -c question3.cpp
+	g++ -g -o debug1 question3.o
+	g++ -O3 -o optimized1 question3.o
