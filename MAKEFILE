@@ -1,9 +1,6 @@
 test:
-
-#question 1
+#question 3
 		
-		g++ -c question1.cpp
-		g++ -g -o debug1 question1.o
-		g++ -O3 -o optimized1 question.o
-
-#question 2
+		g++ -c question3.cpp
+		g++ -g -o debug1 question3.o
+		g++ -O3 -o optimized1 question3.o
